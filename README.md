@@ -14,6 +14,8 @@ https://tfhub.dev/tensorflow/efficientnet/b0/classification/1
 To use other architectures go to the official Tensorlfow website and check image resolution.
 Check the below image for changing the image resolution
 
+![alt text](https://github.com/its-charan-here/Skin-Cancer-Classification/blob/main/images/Capture.PNG)
+
 
 
 
