@@ -1,17 +1,16 @@
-# Skin-Cancer-Classification
+# Skin-Cancer-Classification | <a href = https://vigneshcharan.medium.com/tensorflow-2-x-tutorial-skin-cancer-detection-a-classification-problem-66e33c753f96 >MEDIUM Blog</a>
 
 
 The following is the link to the Medium Blog.
 The blog will guide you through the execution of Skin Cancer Classification
 
-https://vigneshcharan.medium.com/tensorflow-2-x-tutorial-skin-cancer-detection-a-classification-problem-66e33c753f96
 
 
 # Architecture Used:
 
-Tensorflow, Efficient Net B0
+Tensorflow, <a href =https://tfhub.dev/tensorflow/efficientnet/b0/classification/1 >Efficient Net B0</a>
 
-https://tfhub.dev/tensorflow/efficientnet/b0/classification/1
+
 
 To use other architectures go to the official Tensorlfow website and check image resolution.
 Check the below image for changing the image resolution
