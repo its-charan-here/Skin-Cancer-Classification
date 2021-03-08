@@ -4,6 +4,8 @@
 The following is the link to the Medium Blog.
 The blog will guide you through the execution of Skin Cancer Classification
 
+https://vigneshcharan.medium.com/tensorflow-2-x-tutorial-skin-cancer-detection-a-classification-problem-66e33c753f96
+
 
 # Architecture Used:
 
