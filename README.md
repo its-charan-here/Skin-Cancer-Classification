@@ -11,6 +11,11 @@ Tensorflow, Efficient Net B0
 
 https://tfhub.dev/tensorflow/efficientnet/b0/classification/1
 
+To use other architectures go to the official Tensorlfow website and check image resolution.
+Check the below image for changing the image resolution
+
+
+
 
 # Datset Used:
 
